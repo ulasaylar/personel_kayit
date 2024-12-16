@@ -1,4 +1,4 @@
-**/.settings
-**/ProjectSettings.json
-**/settings.json
+*.settings
+*ProjectSettings.json
+*settings.json
 
