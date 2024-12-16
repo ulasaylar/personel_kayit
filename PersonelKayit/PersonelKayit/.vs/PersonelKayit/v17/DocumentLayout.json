@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulasa\\Desktop\\code\\personel_kayit\\PersonelKayit\\PersonelKayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C133A937-9C4D-4708-8788-C8CD080304C6}|PersonelKayit\\PersonelKayit.csproj|c:\\users\\ulasa\\desktop\\code\\personel_kayit\\personelkayit\\personelkayit\\personelkayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C133A937-9C4D-4708-8788-C8CD080304C6}|PersonelKayit\\PersonelKayit.csproj|solutionrelative:personelkayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Desktop\\code\\personel_kayit\\PersonelKayit\\PersonelKayit\\PersonelKayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "PersonelKayit\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Desktop\\code\\personel_kayit\\PersonelKayit\\PersonelKayit\\PersonelKayit\\FrmAnaForm.cs [Design]",
+              "RelativeToolTip": "PersonelKayit\\FrmAnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:48:12.295Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

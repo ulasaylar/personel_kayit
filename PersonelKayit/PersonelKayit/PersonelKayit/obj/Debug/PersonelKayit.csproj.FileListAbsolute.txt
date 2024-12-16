@@ -1,0 +1,13 @@
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.AssemblyReference.cache
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Formistatistik.resources
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.FrmAnaForm.resources
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.FrmGrafikler.resources
+C:\Users\ulasa\Desktop\code\c#\PersonelKayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.FrmGiris.resources
