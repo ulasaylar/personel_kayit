@@ -1,4 +1,4 @@
-*.settings
-*ProjectSettings.json
-*settings.json
+**/Properties/Settings.settings
+**/.vs/ProjectSettings.json
+**/PersonelKayit/v17/ResourceExplorer/settings.json
 
