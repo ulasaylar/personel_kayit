@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PersonelKayit"
+    "\\PersonelKayit",
+    "\\PersonelKayit\\PersonelKayit"
   ],
-  "SelectedNode": "\\PersonelKayit\\PersonelKayit.sln",
+  "SelectedNode": "\\PersonelKayit\\PersonelKayit\\FrmAnaForm.cs",
   "PreviewInSolutionExplorer": false
 }
